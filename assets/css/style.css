@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+	width: 200px;
+	padding: 10px;
+	display: block;
+	margin: 50px auto 0px;
+	background-color: black;
+	color: white;
+}
+p{
+	width: 200px;
+	padding: 10px;
+	margin: auto;
+	background-color: red;
+	color: white;
+}
